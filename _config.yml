@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Zartashia Shafique"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Syeda Zartashia Shafique"
+description              : &description "I am an enthusiastic research-oriented software engineer with a strong academic background and hands-on experience across diverse projects specializing in robust computer vision and AI security. My current work focuses on biometric systems security, with an emphasis on model generalization, robustness, and real-world deployment. I aim to develop reliable vision systems that remain robust under distribution shifts, adversarial conditions, and real world noise. With a Master's in Software Engineering from the University of Engineering and Technology (UET), Taxila, one of Pakistan’s leading engineering institutions, I seek to develop effective techniques to detect attacks and contribute to secure, trustworthy intelligent systems. I am eager to further advance my research skills through advanced academic study."   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://zartashiabukhari-cell.github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,18 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zartashia Shafique"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Riphah International University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "syeda.zartashia.shafique@outlook.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=j8IwUU4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
